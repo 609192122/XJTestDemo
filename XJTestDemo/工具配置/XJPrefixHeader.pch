@@ -1,0 +1,19 @@
+//
+//  XJPrefixHeader.pch
+//  Fortone-Comm
+//
+//  Created by ZxjMacBookPro on 2017/2/22.
+//  Copyright © 2017年 ZxjMacBookPro. All rights reserved.
+//
+
+#ifndef XJPrefixHeader_pch
+#define XJPrefixHeader_pch
+
+#import "XJConst.h"
+#import "Sington.h"
+#import "XJNavigationController.h"
+#import "BFDisplayEvent.h"
+#import "NSObject+PropertyExchange.h"
+
+
+#endif /* XJPrefixHeader_pch */
